@@ -3,5 +3,4 @@
 - **Group Name**: 
 
 - **Group Members**: 
-    - Domer McDomerson (dmcdomers@nd.edu) 
-    - Belle Fleur (bfleur@nd.edu) 
+    - Kevin Kim (jkim83@nd.edu) 
